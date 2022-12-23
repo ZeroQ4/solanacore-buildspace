@@ -1,4 +1,4 @@
-## [Master Solana in four weeks](https://buildspace.so/solana-core) (Solana Core) by [Buildspace](https://buildspace.so)
+## [Master Solana in four weeks](https://buildspace.so/solana-core) (Solana Core) by [Buildspace](https://buildspace.so) 
 
 - [Core 1 - Client Side Developement](https://github.com/skdonepudi/solanacore-buildspace/tree/main/Core%2001) 
 - [Core 2 - SPL Token and Minting NFTs with Metaplex](https://github.com/skdonepudi/solanacore-buildspace/tree/main/Core%2002) 
